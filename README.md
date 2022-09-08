@@ -39,7 +39,7 @@ Etape 2:
 
   - Exemple de commande: 
     ``` 
-    java 1 0 0
-    java 2 5 6
-    java 1 3 7 192.168.56.23
+    java TPClient 1 0 0
+    java TPClient 2 5 6
+    java TPClient 1 3 7 192.168.56.23
     ```
